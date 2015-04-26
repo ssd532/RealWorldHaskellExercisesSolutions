@@ -1,5 +1,4 @@
--- Q. The words function counts the number of words in a string. Modify the
--- WC.hs example in order to count the number of words in a file.
+-- Q. Modify the WC.hs example again, in order to print the number of characters in a file
 
 -- file: ch01/WC.hs
 -- lines beginning with "--" are comments.
