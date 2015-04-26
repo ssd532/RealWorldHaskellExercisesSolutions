@@ -1,0 +1,11 @@
+Q. From ghci, type :? to print some help. Define a variable, such as let x = 1 and then type : show bindings. What do you see?
+
+Prelude> let x = 1
+x :: Integer
+Prelude> :show bindings
+it :: Integer = 4
+x :: Integer = 1
+
+Note:
+:show bindings command is used to show the current bindings made at the prompt.
+
